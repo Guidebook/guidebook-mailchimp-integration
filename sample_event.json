@@ -1,0 +1,23 @@
+{
+  "event": "Builder-AttendeeCreatedEvent",
+  "properties": {
+    "first_name": "Guide",
+    "last_name": "Bot",
+    "user_id": "1",
+    "attendee_last_name": "Doe",
+    "guide_id": "123456",
+    "attendee_first_name": "John",
+    "company": null,
+    "attendee_revoked": false,
+    "guide_name": "Test Guide",
+    "attendee_email": "johndoe@mailchimp.integration.com",
+    "time": "2018-02-12T20:39:40.724267+0000",
+    "attendee_status": "1",
+    "position": null,
+    "email": "guidebot@guidebook.com",
+    "attendee_company": "Example Company",
+    "attendee_title": "Sales Development Representative"
+  },
+  "weid": "123456-5e39z7f9-2548-1259-8fze-7b6cdbb34b42",
+  "extra_metadata": {}
+}
